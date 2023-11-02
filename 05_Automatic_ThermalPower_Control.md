@@ -34,7 +34,7 @@ The pre-designated setpoints are the most commonly required power setpoints requ
 On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
 
 - Absorber movement mode (LEFT BUTTON)  
-    In this mode the automatic controller utilizes its authority over rodmovement. Inserting control rods to lengthen period and pulling control rods to shorten period.
+    In this mode the automatic controller utilizes its authority over rod movement. Inserting control rods to lengthen period and pulling control rods to shorten period.
 
 - Recirculation mode  
     In recirculation mode the auto control utilizes its authority over pump speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.
@@ -49,7 +49,7 @@ On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
     in Circ mode the auto control utilizes its authority over pump speed of the 2 reactor recirculation pumps to increase or decrease the recirculation flow thus changing reactor power.*   
 
 - *Rods mode  
-    In rods mode the auto control utilizes its authority over rodmovement to lengthen or shorten period by inserting or pulling rods respectively.*
+    In rods mode the auto control utilizes its authority over rod movement to lengthen or shorten period by inserting or pulling rods respectively.*
 
 - *Group mode  
     In Group mode the system acts like rod mode but only the selected groups can be moved.*
