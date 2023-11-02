@@ -59,7 +59,7 @@ On the Unit-1 Automatic thermal power regulator there are 2 modes of operation:
 
 The computer will try to smoothly reach the desired level and then hold it. 
  
-Oscillations might occur due to processes affecting reactor power like negative temperature coeficient or xenon levels.
+Oscillations might occur due to processes affecting reactor power like negative temperature coefficient or xenon levels.
 
 Changes in circulation flow is not effective at low temperatures and reactor powers.
 The circulation flow can quickly reach its limit. This will be signaled with a sound notification. In that case you have to change mode to absorber movement mode.  
