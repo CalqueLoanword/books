@@ -24,7 +24,7 @@ APRM (Average Power Range Monitor) gives the most reliable power of the reactor 
 
 # Core monitor
 
-Core monitor shows % of rods pulled and % of maximum power for each group of rods individually. Vertical slices of the core can also be selected to see powers for each cell in the core on different depths (*In Unit #2 fuel temperatures instead of powers are shown*). Rods should be pulled individually in such a manner that total power between all groups are more or less balanced. Automatic Balancer can also be used for that. Usually the inside rods heat up quicker than outside rods although it's not always the case as this may depend on fuel quantity in each rods and xenon amount. Recirculation imbalance can also affect imbalace in parts of the core.
+Core monitor shows % of rods pulled and % of maximum power for each group of rods individually. Vertical slices of the core can also be selected to see powers for each cell in the core on different depths (*In Unit #2 fuel temperatures instead of powers are shown*). Rods should be pulled individually in such a manner that total power between all groups are more or less balanced. Automatic Balancer can also be used for that. Usually the inside rods heat up quicker than outside rods although it's not always the case as this may depend on fuel quantity in each rods and xenon amount. Recirculation imbalance can also affect imbalance in parts of the core.
 
 # Unit 2 realistic mode
 
